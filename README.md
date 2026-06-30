@@ -19,7 +19,7 @@ I work at the intersection of **Transformer-based large language models**, **qua
 
 ## Links
 
-- Academic profile: [personal-resume](https://github.com/Ms-March7/personal-resume)
+- Academic profile: [academic-profile](https://github.com/Ms-March7/academic-profile)
 - Email: [wbc23@mails.tsinghua.edu.cn](mailto:wbc23@mails.tsinghua.edu.cn)
 - GitHub: [Ms-March7](https://github.com/Ms-March7)
 
