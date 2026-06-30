@@ -13,7 +13,7 @@ I work at the intersection of **Transformer-based large language models**, **qua
 
 ## Selected Work
 
-- [**AI Mathematician as a Partner in Advancing Mathematical Discovery - A Case Study in Homogenization Theory**](https://arxiv.org/abs/2510.26380), co-first author, ICAIS 2025 Outstanding Paper.
+- [**AI Mathematician as a Partner in Advancing Mathematical Discovery - A Case Study in Homogenization Theory**](https://arxiv.org/abs/2510.26380), ICAIS 2025 Outstanding Paper.
 - [**Quantitative Homogenization Theory for Lamé-Stokes Coupled Systems**](https://arxiv.org/abs/2606.05098), single-author preprint.
 - **Private AI-for-Trading research prototype**, focused on event-driven market signals, structured information extraction, and live-market validation.
 
